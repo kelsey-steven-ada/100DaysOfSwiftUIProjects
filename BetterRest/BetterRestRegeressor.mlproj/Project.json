@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-11-14T21:21:26Z",
+        "event" : "projectCreated",
+        "id" : "FD47D108-A377-47F5-9FBF-95E5E496E1DD",
+        "subtitle" : "BetterRestRegeressor",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Kelsey Steven",
+  "createdDate" : "2026-11-14T21:21:26Z",
+  "description" : "",
+  "id" : "217A25BB-B5FB-41F2-9AB8-9FCE793D2EC0",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-11-14T21:21:26Z",
+  "projectName" : "BetterRestRegeressor",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
