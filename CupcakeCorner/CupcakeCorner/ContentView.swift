@@ -19,7 +19,6 @@ struct ContentView: View {
                     Picker("Select cake type", selection: $order.type) {
                         ForEach(Order.CakeType.allCases) {
                             Text($0.rawValue)
-//                                .tag($0.rawValue.capitalized)
                         }
                     }
                     
